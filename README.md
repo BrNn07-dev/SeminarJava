@@ -1,2 +1,2 @@
 # SeminarJava
-Vom lucra mult...cica
+Voi lucra mult...cica
